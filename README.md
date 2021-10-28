@@ -1,1 +1,1 @@
-# exercise
+For Model : protected $guarded = [];
